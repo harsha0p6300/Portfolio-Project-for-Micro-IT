@@ -16,8 +16,7 @@ Let me introduce myself, Harsha vardhan. On this occasion, I’d like to share t
 - Material UI  
 - SweetAlert2  
 
-**Website Link:**  
-[https://www.harsha.my.id/](https://www.harsha.my.id/)  
+ 
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
