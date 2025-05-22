@@ -1,5 +1,5 @@
-Here’s the translation of your text to English:  
-presentation link
+ 
+portfolio presentation (MICRO IT)link:
 https://docs.google.com/presentation/d/1c8-7zFWrApS-Rasyr8mzKDQ2V9vGcEdO/edit?slide=id.p1#slide=id.p1
 
 ---
